@@ -3,6 +3,6 @@
 ##what to do? ##
 Just find out the password somehow 😃. and unlock the mail option send me a mail and get reward 😃
 
-[Website](targetURL " https://shohanurrahmanshohan.github.io/Xss-challage")
+[Website](" https://shohanurrahmanshohan.github.io/Xss-challage")
 **You can do whatever you want no roles 😝😘**
 
