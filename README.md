@@ -11,8 +11,3 @@ Just find out the password somehow 😃. and unlock the mail option send me a ma
 **How it will look after unlock ?**<br/>
 ![unlock-img](https://i.ibb.co/4PkzwMX/Screenshot-2021-03-11-20-28-49-316-com-android-chrome.jpg)
 
----
-Title: Xss Challenge
-Author: Shohanur Rahman
-date: 11/3/2021
----
