@@ -10,7 +10,8 @@ Just find out the password somehow 😃. and unlock the mail option send me a ma
 <br/>
 **How it will look after unlock ?**<br/>
 ![unlock-img](https://i.ibb.co/4PkzwMX/Screenshot-2021-03-11-20-28-49-316-com-android-chrome.jpg)
-<br/>
-✓Don't Forget to send mail for confirmation✓
+
+
+
 <br/> 
 **Author : Shohanur Rahman ❤️!**
