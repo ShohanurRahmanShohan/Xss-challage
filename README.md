@@ -7,7 +7,7 @@ Author: Shohanur Rahman🌝
 date: 11/3/2021
 
 ---
-##SORRY FOR SPELLING 
+## SORRY FOR SPELLING 
 
  Its a Challenge 😜 <br/> If you have idea about JavaScript maybe you can win also ?
 <br/>**What to do?**<br/><br/><br/>
