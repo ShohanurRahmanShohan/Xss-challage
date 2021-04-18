@@ -7,6 +7,8 @@ Author: Shohanur Rahman🌝
 date: 11/3/2021
 
 ---
+##SORRY FOR SPELLING 
+
  Its a Challenge 😜 <br/> If you have idea about JavaScript maybe you can win also ?
 <br/>**What to do?**<br/><br/><br/>
 Just find out the password somehow 😃. and unlock the mail option send me a mail and get reward 😃
